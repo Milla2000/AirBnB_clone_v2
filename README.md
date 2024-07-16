@@ -18,4 +18,4 @@ The project currently only implements the back-end console.
 
 ## Authors:
 
-- Milla Jesso <[Marcus Imagwe](https://github.com/Milla2000)>
+- Milla Jesso <[Milla Jesso](https://github.com/Milla2000)>
