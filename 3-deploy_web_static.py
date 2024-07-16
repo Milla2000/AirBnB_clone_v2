@@ -8,8 +8,6 @@ from fabric.api import put
 from fabric.api import run
 
 env.hosts = ["54.234.89.183", "100.26.165.1"]
-env.user = "ubuntu"  
-env.key_filename = "/home/milla/.ssh/id_rsa"
 
 def do_pack():
     """Create a tar gzipped archive of the directory web_static."""
